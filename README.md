@@ -31,14 +31,12 @@ pip install -r requirements.txt
 
 To execute the system, you can run the Python script directly or use the Jupyter notebook:
 
-bash
-python script_final.py
+`python script_final.py`
 
 
 Or,
 
-bash
-jupyter notebook script_final.ipynb
+`jupyter notebook script_final.ipynb`
 
 
 ## Key Components
@@ -70,7 +68,7 @@ This project is open-source and available under the MIT License. See the LICENSE
 
 ## Acknowledgments
 
-Special thanks to Universidad Politécnica de Madrid and Prof. Antonio Canale for guidance and resources throughout the project.
+Special thanks to Universidad Politécnica de Madrid for guidance and resources throughout the project.
 
 ## Contact
 
